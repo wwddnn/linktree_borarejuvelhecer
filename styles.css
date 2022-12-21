@@ -89,7 +89,7 @@
     background: var(--primary-color); /* vai de zero a F*/
     color: white;
     text-transform: uppercase;/*poe em letra maiuscula*/
-    font-size: 14px;
+    font-size: 24px;
     margin-bottom: 16px;
     border-radius: 6px;
     transition: background 400ms;
